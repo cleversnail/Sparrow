@@ -10,3 +10,6 @@ jest Electron
 
 
 # 版本管理
+git
+
+# 持续化集成
